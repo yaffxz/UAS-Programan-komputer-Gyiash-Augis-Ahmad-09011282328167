@@ -75,7 +75,7 @@ class Perpustakaan {
     }
 }
 
-public class Soal7 {
+public class Soal6 {
     public static void main(String[] args) {
         Buku buku1 = new Buku("Harry Potter", "J.K. Rowling", 2000);
         Buku buku2 = new Buku("Lord of the Rings", "J.R.R. Tolkien", 1954);

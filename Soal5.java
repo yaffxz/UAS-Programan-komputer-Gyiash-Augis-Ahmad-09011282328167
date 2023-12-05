@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Soal2 {
+public class Soal5 {
     public static void main(String[] args) {
         // Nilai yang telah ditentukan untuk username dan password
         String usernameTersimpan = "Kingfroze";

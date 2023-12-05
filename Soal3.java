@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Soal4 {
+public class Soal3 {
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {

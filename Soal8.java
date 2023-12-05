@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Soal9 {
+public class Soal8 {
 
     public static void main(String[] args) {
         String ekspresi = "(a + b) * (c - d)";
